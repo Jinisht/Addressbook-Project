@@ -2,12 +2,12 @@
                   C - Project "ADDRESS BOOK" application
 
 	      Address Book is a small application written in C language. 
-	      It keeps track of names and telephone/mobile numbers and e-mail addresses.
+	      It keeps track of contacts(names and telephone/mobile numbers and e-mail addresses).
 ********************************************************************************************************
 
+   Uses of App: - Can create contact, search contact, edit contact, delete conatct, list contacts, and save contacts
 
-
-   main.c :- It is main file containig the main function and all the fuction call is present.
+   main.c :- It is main file containig the main function and all the function call is present.
    
    contact.c: - This file contains the function definition
    
@@ -15,6 +15,8 @@
 		          save the data to the file.
 
    header files : contact.h and file.h.
+
+   
 
   ******************* How to run application *******************************
   
