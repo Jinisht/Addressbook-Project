@@ -14,7 +14,7 @@
 
    header files : contact.h and file.h.
 
-  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   How to run application <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+  ******************* How to run application *******************************
   Run the command gcc *.c
   Run the executable file ./a.out.
   Give input to the response from the application.
